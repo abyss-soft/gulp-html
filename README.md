@@ -1,4 +1,11 @@
-# Contains the necessary settings for a quick start.
+# Gulp - assembly, contains the necessary settings for quick launch 
+
+----
+внимание, эта сборка под **gulp v3.9**,  
+
+сборка под **gulp v4** тут -> [gulp4-html](https://github.com/abyss-soft/gulp4-html "переход на репозиторий") 
+
+----
 
 #### Сделайте ` git clone `
 
