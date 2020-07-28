@@ -5,6 +5,10 @@
 
 сборка под **gulp v4** тут -> [gulp4-html](https://github.com/abyss-soft/gulp4-html "переход на репозиторий") 
 
+
+**если нужна webpack сборка, то она тут**
+[https://github.com/abyss-soft/webpack-template-base ](https://github.com/abyss-soft/webpack-template-base ) 
+
 ----
 
 #### Сделайте ` git clone `
